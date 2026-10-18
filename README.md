@@ -635,3 +635,11 @@ subplot(1, 2, 2);
 imshow(edges);
 title('Canny Edge Detection');
 ```
+
+---
+
+## Notes
+
+- Keep the image files (`img1.jpg`, `img2.jpg`, `img3.jpg`, `img4.jpg`, `img6.jpg`, or `image.jpg`) in the current working directory, or replace the filenames with valid absolute paths.
+- These programs use GNU Octave syntax and the Image package for image-processing operations.
+- The code has been formatted for readability and obvious copy/paste issues in the source have been cleaned up. Experiment 1 was left as a note because the supplied PDF does not include its code.
