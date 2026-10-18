@@ -21,8 +21,7 @@
 
 ## Experiment 1
 
-The supplied PDF contains only the heading **“Experiment No: 1”** on its final page; no program or experiment description is provided.
-
+Its Just The GNU Octave Installation!
 ---
 
 ## Experiment 2A — Basic Signals
